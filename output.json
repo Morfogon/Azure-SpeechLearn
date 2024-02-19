@@ -1,0 +1,999 @@
+[{
+    "Id": "6d762ad9c7154d8d942a9655df81bead",
+    "RecognitionStatus": 0,
+    "Offset": 3500000,
+    "Duration": 80800000,
+    "Channel": 0,
+    "DisplayText": "Estou saindo da academia, vou lá buscar o exame e depois vou almoçar no cordel. Quer ir almoçar? Porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá.",
+    "NBest": [{
+            "Confidence": 0.7990776,
+            "Lexical": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "ITN": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "MaskedITN": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "Display": "Estou saindo da academia, vou lá buscar o exame e depois vou almoçar no cordel. Quer ir almoçar? Porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá.",
+            "Words": [{
+                    "Word": "estou",
+                    "Offset": 3500000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "saindo",
+                    "Offset": 5500000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "da",
+                    "Offset": 7500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "academia",
+                    "Offset": 8300000,
+                    "Duration": 4800000
+                },
+                {
+                    "Word": "vou",
+                    "Offset": 13100000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "lá",
+                    "Offset": 14700000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "buscar",
+                    "Offset": 15500000,
+                    "Duration": 3200000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 18700000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "exame",
+                    "Offset": 19100000,
+                    "Duration": 6400000
+                },
+                {
+                    "Word": "e",
+                    "Offset": 31500000,
+                    "Duration": 1200000
+                },
+                {
+                    "Word": "depois",
+                    "Offset": 32700000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "vou",
+                    "Offset": 35500000,
+                    "Duration": 1200000
+                },
+                {
+                    "Word": "almoçar",
+                    "Offset": 36700000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "no",
+                    "Offset": 39500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "cordel",
+                    "Offset": 40300000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "quer",
+                    "Offset": 44700000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "ir",
+                    "Offset": 46300000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "almoçar",
+                    "Offset": 47100000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "porque",
+                    "Offset": 51500000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 53900000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "tempo",
+                    "Offset": 54300000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "de",
+                    "Offset": 57100000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "você",
+                    "Offset": 57900000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "chegar",
+                    "Offset": 59500000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "no",
+                    "Offset": 61900000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "cordel",
+                    "Offset": 62700000,
+                    "Duration": 4800000
+                },
+                {
+                    "Word": "é",
+                    "Offset": 67500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 68300000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "tempo",
+                    "Offset": 68700000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "de",
+                    "Offset": 70700000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "eu",
+                    "Offset": 71500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "pegar",
+                    "Offset": 72300000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 74700000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "exame",
+                    "Offset": 75100000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "e",
+                    "Offset": 79500000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "ir",
+                    "Offset": 79900000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "para",
+                    "Offset": 80700000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "lá",
+                    "Offset": 82300000,
+                    "Duration": 2000000
+                }
+            ]
+        },
+        {
+            "Confidence": 0.7990776,
+            "Lexical": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "ITN": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "MaskedITN": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "Display": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "Words": [{
+                    "Word": "estou",
+                    "Offset": 3500000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "saindo",
+                    "Offset": 5500000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "da",
+                    "Offset": 7500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "academia",
+                    "Offset": 8300000,
+                    "Duration": 4800000
+                },
+                {
+                    "Word": "vou",
+                    "Offset": 13100000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "lá",
+                    "Offset": 14700000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "buscar",
+                    "Offset": 15500000,
+                    "Duration": 3200000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 18700000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "exame",
+                    "Offset": 19100000,
+                    "Duration": 6400000
+                },
+                {
+                    "Word": "e",
+                    "Offset": 31500000,
+                    "Duration": 1200000
+                },
+                {
+                    "Word": "depois",
+                    "Offset": 32700000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "vou",
+                    "Offset": 35500000,
+                    "Duration": 1200000
+                },
+                {
+                    "Word": "almoçar",
+                    "Offset": 36700000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "no",
+                    "Offset": 39500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "cordel",
+                    "Offset": 40300000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "quer",
+                    "Offset": 44700000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "ir",
+                    "Offset": 46300000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "almoçar",
+                    "Offset": 47100000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "porque",
+                    "Offset": 51500000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 53900000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "tempo",
+                    "Offset": 54300000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "de",
+                    "Offset": 57100000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "você",
+                    "Offset": 57900000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "chegar",
+                    "Offset": 59500000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "no",
+                    "Offset": 61900000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "cordel",
+                    "Offset": 62700000,
+                    "Duration": 4800000
+                },
+                {
+                    "Word": "é",
+                    "Offset": 67500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 68300000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "tempo",
+                    "Offset": 68700000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "de",
+                    "Offset": 70700000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "eu",
+                    "Offset": 71500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "pegar",
+                    "Offset": 72300000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 74700000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "exame",
+                    "Offset": 75100000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "e",
+                    "Offset": 79500000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "ir",
+                    "Offset": 79900000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "para",
+                    "Offset": 80700000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "lá",
+                    "Offset": 82300000,
+                    "Duration": 2000000
+                }
+            ]
+        },
+        {
+            "Confidence": 0.7990776,
+            "Lexical": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "ITN": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "MaskedITN": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "Display": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "Words": [{
+                    "Word": "estou",
+                    "Offset": 3500000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "saindo",
+                    "Offset": 5500000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "da",
+                    "Offset": 7500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "academia",
+                    "Offset": 8300000,
+                    "Duration": 4800000
+                },
+                {
+                    "Word": "vou",
+                    "Offset": 13100000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "lá",
+                    "Offset": 14700000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "buscar",
+                    "Offset": 15500000,
+                    "Duration": 3200000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 18700000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "exame",
+                    "Offset": 19100000,
+                    "Duration": 6400000
+                },
+                {
+                    "Word": "e",
+                    "Offset": 31500000,
+                    "Duration": 1200000
+                },
+                {
+                    "Word": "depois",
+                    "Offset": 32700000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "vou",
+                    "Offset": 35500000,
+                    "Duration": 1200000
+                },
+                {
+                    "Word": "almoçar",
+                    "Offset": 36700000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "no",
+                    "Offset": 39500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "cordel",
+                    "Offset": 40300000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "quer",
+                    "Offset": 44700000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "ir",
+                    "Offset": 46300000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "almoçar",
+                    "Offset": 47100000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "porque",
+                    "Offset": 51500000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 53900000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "tempo",
+                    "Offset": 54300000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "de",
+                    "Offset": 57100000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "você",
+                    "Offset": 57900000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "chegar",
+                    "Offset": 59500000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "no",
+                    "Offset": 61900000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "cordel",
+                    "Offset": 62700000,
+                    "Duration": 4800000
+                },
+                {
+                    "Word": "é",
+                    "Offset": 67500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 68300000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "tempo",
+                    "Offset": 68700000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "de",
+                    "Offset": 70700000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "eu",
+                    "Offset": 71500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "pegar",
+                    "Offset": 72300000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 74700000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "exame",
+                    "Offset": 75100000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "e",
+                    "Offset": 79500000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "ir",
+                    "Offset": 79900000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "para",
+                    "Offset": 80700000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "lá",
+                    "Offset": 82300000,
+                    "Duration": 2000000
+                }
+            ]
+        },
+        {
+            "Confidence": 0.7990776,
+            "Lexical": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "ITN": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "MaskedITN": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "Display": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "Words": [{
+                    "Word": "estou",
+                    "Offset": 3500000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "saindo",
+                    "Offset": 5500000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "da",
+                    "Offset": 7500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "academia",
+                    "Offset": 8300000,
+                    "Duration": 4800000
+                },
+                {
+                    "Word": "vou",
+                    "Offset": 13100000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "lá",
+                    "Offset": 14700000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "buscar",
+                    "Offset": 15500000,
+                    "Duration": 3200000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 18700000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "exame",
+                    "Offset": 19100000,
+                    "Duration": 6400000
+                },
+                {
+                    "Word": "e",
+                    "Offset": 31500000,
+                    "Duration": 1200000
+                },
+                {
+                    "Word": "depois",
+                    "Offset": 32700000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "vou",
+                    "Offset": 35500000,
+                    "Duration": 1200000
+                },
+                {
+                    "Word": "almoçar",
+                    "Offset": 36700000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "no",
+                    "Offset": 39500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "cordel",
+                    "Offset": 40300000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "quer",
+                    "Offset": 44700000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "ir",
+                    "Offset": 46300000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "almoçar",
+                    "Offset": 47100000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "porque",
+                    "Offset": 51500000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 53900000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "tempo",
+                    "Offset": 54300000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "de",
+                    "Offset": 57100000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "você",
+                    "Offset": 57900000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "chegar",
+                    "Offset": 59500000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "no",
+                    "Offset": 61900000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "cordel",
+                    "Offset": 62700000,
+                    "Duration": 4800000
+                },
+                {
+                    "Word": "é",
+                    "Offset": 67500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 68300000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "tempo",
+                    "Offset": 68700000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "de",
+                    "Offset": 70700000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "eu",
+                    "Offset": 71500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "pegar",
+                    "Offset": 72300000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 74700000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "exame",
+                    "Offset": 75100000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "e",
+                    "Offset": 79500000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "ir",
+                    "Offset": 79900000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "para",
+                    "Offset": 80700000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "lá",
+                    "Offset": 82300000,
+                    "Duration": 2000000
+                }
+            ]
+        },
+        {
+            "Confidence": 0.7990776,
+            "Lexical": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "ITN": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "MaskedITN": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "Display": "estou saindo da academia vou lá buscar o exame e depois vou almoçar no cordel quer ir almoçar porque o tempo de você chegar no cordel é o tempo de eu pegar o exame e ir para lá",
+            "Words": [{
+                    "Word": "estou",
+                    "Offset": 3500000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "saindo",
+                    "Offset": 5500000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "da",
+                    "Offset": 7500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "academia",
+                    "Offset": 8300000,
+                    "Duration": 4800000
+                },
+                {
+                    "Word": "vou",
+                    "Offset": 13100000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "lá",
+                    "Offset": 14700000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "buscar",
+                    "Offset": 15500000,
+                    "Duration": 3200000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 18700000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "exame",
+                    "Offset": 19100000,
+                    "Duration": 6400000
+                },
+                {
+                    "Word": "e",
+                    "Offset": 31500000,
+                    "Duration": 1200000
+                },
+                {
+                    "Word": "depois",
+                    "Offset": 32700000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "vou",
+                    "Offset": 35500000,
+                    "Duration": 1200000
+                },
+                {
+                    "Word": "almoçar",
+                    "Offset": 36700000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "no",
+                    "Offset": 39500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "cordel",
+                    "Offset": 40300000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "quer",
+                    "Offset": 44700000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "ir",
+                    "Offset": 46300000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "almoçar",
+                    "Offset": 47100000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "porque",
+                    "Offset": 51500000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 53900000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "tempo",
+                    "Offset": 54300000,
+                    "Duration": 2800000
+                },
+                {
+                    "Word": "de",
+                    "Offset": 57100000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "você",
+                    "Offset": 57900000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "chegar",
+                    "Offset": 59500000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "no",
+                    "Offset": 61900000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "cordel",
+                    "Offset": 62700000,
+                    "Duration": 4800000
+                },
+                {
+                    "Word": "é",
+                    "Offset": 67500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 68300000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "tempo",
+                    "Offset": 68700000,
+                    "Duration": 2000000
+                },
+                {
+                    "Word": "de",
+                    "Offset": 70700000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "eu",
+                    "Offset": 71500000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "pegar",
+                    "Offset": 72300000,
+                    "Duration": 2400000
+                },
+                {
+                    "Word": "o",
+                    "Offset": 74700000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "exame",
+                    "Offset": 75100000,
+                    "Duration": 4400000
+                },
+                {
+                    "Word": "e",
+                    "Offset": 79500000,
+                    "Duration": 400000
+                },
+                {
+                    "Word": "ir",
+                    "Offset": 79900000,
+                    "Duration": 800000
+                },
+                {
+                    "Word": "para",
+                    "Offset": 80700000,
+                    "Duration": 1600000
+                },
+                {
+                    "Word": "lá",
+                    "Offset": 82300000,
+                    "Duration": 2000000
+                }
+            ]
+        }
+    ]
+}]
